@@ -1,4 +1,4 @@
-# rsdis
+# 🚀 rsdis 🚀
 Minimal rust redis clone
 
 ### Benchmark
